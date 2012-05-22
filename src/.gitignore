@@ -1,0 +1,10 @@
+bin/*
+obj/*
+AppSettings.config
+*.suo
+*.user
+*.ReSharper.*
+**/**/*.orig
+**/**/**/*.orig
+*.Publish.xml  
+_ReSharper.Battery/**
